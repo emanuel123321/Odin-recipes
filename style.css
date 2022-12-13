@@ -1,0 +1,34 @@
+a{
+    font-size: 24px;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+h1 ,h2, p{
+text-align: center;
+}
+h1{
+    background-color: gray;   
+    color: antiquewhite;
+}
+h2{
+    background-color: red;
+    color: white;
+    font-weight: 600px;
+}
+p{
+    font-size: 20px;;
+}
+ul li{
+    background-color: bisque;
+}
+ol li{
+    background-color: rgb(114, 171, 221);
+}
+img{
+    height: auto;
+    width: 500px;
+    position: relative;
+    left: 25%;
+}
